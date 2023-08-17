@@ -1,0 +1,1360 @@
+2023-08-17 02:01:50,724 - AddCustomer -INFO - Opened URL
+2023-08-17 02:01:52,884 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:01:55,015 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:02:01,192 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:02:03,331 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:02:05,347 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:02:07,880 - OpenAccount -INFO - Opened URL
+2023-08-17 02:02:10,033 - OpenAccount -INFO - Manager logged in
+2023-08-17 02:02:12,164 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:02:16,351 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:02:18,492 - OpenAccount -INFO - Account is processing
+2023-08-17 02:02:23,564 - DepositAmount -INFO - Opened URL
+2023-08-17 02:02:25,706 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:02:29,927 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:02:32,065 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:02:34,115 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:02:36,250 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:02:38,849 - WithdrawAmount -INFO - Opened URL
+2023-08-17 02:02:40,990 - WithdrawAmount -INFO - Customer wants to login
+2023-08-17 02:02:45,210 - WithdrawAmount -INFO - Customer logs in
+2023-08-17 02:02:50,349 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:02:52,398 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:02:54,532 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:02:58,822 - DeleteCustomer -INFO - Manager logs in
+2023-08-17 02:03:00,966 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 02:03:03,021 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 02:03:05,157 - DeleteCustomer -INFO - Manager deletes customer
+2023-08-17 02:03:05,173 - ResetTransactions -INFO - Opened URL
+2023-08-17 02:03:07,316 - ResetTransactions -INFO - Customer wants to login
+2023-08-17 02:03:11,543 - ResetTransactions -INFO - Customer logs in
+2023-08-17 02:03:16,688 - ResetTransactions -INFO - Customer wants to check transaction hisotyr
+2023-08-17 02:03:22,252 - ResetTransactions -INFO - printing table
+2023-08-17 02:03:25,386 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:03:27,536 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:10:30,518 - AddCustomer -INFO - Opened URL
+2023-08-17 02:10:32,673 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:10:34,818 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:10:41,014 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:10:43,161 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:10:45,183 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:10:48,006 - OpenAccount -INFO - Opened URL
+2023-08-17 02:10:50,159 - OpenAccount -INFO - Manager logged in
+2023-08-17 02:10:52,302 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:10:56,494 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:10:58,631 - OpenAccount -INFO - Account is processing
+2023-08-17 02:11:03,152 - DepositAmount -INFO - Opened URL
+2023-08-17 02:11:05,286 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:11:09,502 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:11:11,644 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:11:13,688 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:11:15,821 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:11:18,586 - WithdrawAmount -INFO - Opened URL
+2023-08-17 02:11:20,726 - WithdrawAmount -INFO - Customer wants to login
+2023-08-17 02:11:24,945 - WithdrawAmount -INFO - Customer logs in
+2023-08-17 02:11:30,090 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:11:32,131 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:11:34,275 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:11:38,578 - DeleteCustomer -INFO - Manager logs in
+2023-08-17 02:11:40,721 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 02:11:42,783 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 02:11:44,919 - DeleteCustomer -INFO - Manager deletes customer
+2023-08-17 02:11:44,935 - ResetTransactions -INFO - Opened URL
+2023-08-17 02:11:47,078 - ResetTransactions -INFO - Customer wants to login
+2023-08-17 02:11:51,304 - ResetTransactions -INFO - Customer logs in
+2023-08-17 02:11:56,447 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 02:12:05,173 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:12:07,324 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:13:51,047 - AddCustomer -INFO - Opened URL
+2023-08-17 02:13:53,203 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:13:55,335 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:14:01,509 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:14:03,657 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:14:05,677 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:14:08,228 - OpenAccount -INFO - Opened URL
+2023-08-17 02:14:10,384 - OpenAccount -INFO - Manager logged in
+2023-08-17 02:14:12,521 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:14:16,721 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:14:18,864 - OpenAccount -INFO - Account is processing
+2023-08-17 02:14:23,649 - DepositAmount -INFO - Opened URL
+2023-08-17 02:14:25,797 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:14:30,018 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:14:32,158 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:14:34,221 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:14:36,365 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:14:39,121 - WithdrawAmount -INFO - Opened URL
+2023-08-17 02:14:41,266 - WithdrawAmount -INFO - Customer wants to login
+2023-08-17 02:14:45,482 - WithdrawAmount -INFO - Customer logs in
+2023-08-17 02:14:50,619 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:14:52,675 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:14:54,816 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:14:59,284 - DeleteCustomer -INFO - Manager logs in
+2023-08-17 02:15:01,429 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 02:15:03,487 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 02:15:05,621 - DeleteCustomer -INFO - Manager deletes customer
+2023-08-17 02:15:05,639 - ResetTransactions -INFO - Opened URL
+2023-08-17 02:15:07,776 - ResetTransactions -INFO - Customer wants to login
+2023-08-17 02:15:11,987 - ResetTransactions -INFO - Customer logs in
+2023-08-17 02:15:17,132 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 02:15:22,681 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:15:25,824 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:15:27,968 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:18:50,240 - AddCustomer -INFO - Opened URL
+2023-08-17 02:18:52,413 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:18:54,543 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:19:00,714 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:19:02,862 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:19:04,878 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:19:07,417 - OpenAccount -INFO - Opened URL
+2023-08-17 02:19:09,578 - OpenAccount -INFO - Manager logged in
+2023-08-17 02:19:11,718 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:19:15,897 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:19:18,037 - OpenAccount -INFO - Account is processing
+2023-08-17 02:19:22,552 - DepositAmount -INFO - Opened URL
+2023-08-17 02:19:24,694 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:19:28,915 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:19:31,059 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:19:33,115 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:19:35,256 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:19:37,755 - WithdrawAmount -INFO - Opened URL
+2023-08-17 02:19:39,907 - WithdrawAmount -INFO - Customer wants to login
+2023-08-17 02:19:44,130 - WithdrawAmount -INFO - Customer logs in
+2023-08-17 02:19:49,271 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:19:51,318 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:19:53,455 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:19:57,764 - DeleteCustomer -INFO - Manager logs in
+2023-08-17 02:19:59,938 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 02:20:01,994 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 02:20:04,126 - DeleteCustomer -INFO - Manager deletes customer
+2023-08-17 02:20:04,143 - ResetTransactions -INFO - Opened URL
+2023-08-17 02:20:06,289 - ResetTransactions -INFO - Customer wants to login
+2023-08-17 02:20:10,502 - ResetTransactions -INFO - Customer logs in
+2023-08-17 02:20:15,636 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 02:20:18,723 - ResetTransactions -INFO - 
+Jan 1, 2015 12:00:00 AM 30 Credit	
+2023-08-17 02:20:18,732 - ResetTransactions -INFO - 
+Jan 1, 2015 12:00:00 AM 4 Debit	
+2023-08-17 02:20:18,739 - ResetTransactions -INFO - 
+Jan 2, 2015 12:00:00 AM 30 Credit	
+2023-08-17 02:20:18,746 - ResetTransactions -INFO - 
+Jan 2, 2015 12:00:00 AM 4 Debit	
+2023-08-17 02:20:18,753 - ResetTransactions -INFO - 
+Jan 3, 2015 12:00:00 AM 30 Credit	
+2023-08-17 02:20:18,760 - ResetTransactions -INFO - 
+Jan 3, 2015 12:00:00 AM 4 Debit	
+2023-08-17 02:20:18,767 - ResetTransactions -INFO - 
+Jan 4, 2015 12:00:00 AM 30 Credit	
+2023-08-17 02:20:18,774 - ResetTransactions -INFO - 
+Jan 4, 2015 12:00:00 AM 4 Debit	
+2023-08-17 02:20:18,781 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,789 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,796 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,803 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,808 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,815 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,821 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,829 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,835 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,842 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,849 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,855 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,863 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,870 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,877 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,883 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,890 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,897 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,904 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,912 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,919 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,925 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,932 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,939 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,946 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,953 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,960 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,967 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,974 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,980 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,987 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:18,994 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,000 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,007 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,014 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,021 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,028 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,035 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,042 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,048 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,054 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,062 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,070 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,078 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,085 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,092 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,099 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,107 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,114 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,120 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,128 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,135 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,143 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,153 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,160 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,167 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,174 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,181 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,188 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,195 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,200 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,207 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,213 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,220 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,227 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,234 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,242 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,249 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,255 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,262 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,268 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,275 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,281 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,289 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,296 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,302 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,310 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,316 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,323 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,329 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,336 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,343 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,350 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,357 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,364 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,371 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,377 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,384 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,391 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,398 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,406 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,413 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,419 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,426 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,432 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,439 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,445 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,453 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,460 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,468 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,476 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,483 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,490 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,497 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,504 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,512 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,519 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,526 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,533 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,539 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,546 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,552 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,560 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,566 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,574 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,580 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,587 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,594 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,601 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,608 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,615 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,622 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,629 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,636 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,642 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,649 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,656 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,663 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,669 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,677 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,684 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,690 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,696 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,703 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,709 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,716 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,722 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,729 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,736 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,743 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,749 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,755 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,762 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,768 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,776 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,782 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,790 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,797 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,807 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,816 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,825 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,834 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,843 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,852 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,862 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,870 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,877 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,886 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,894 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,903 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,913 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,920 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,931 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,942 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,950 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,958 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,967 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,975 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,983 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,990 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:19,997 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,004 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,011 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,018 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,026 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,033 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,039 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,045 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,052 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,059 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,065 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,071 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,079 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,086 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,092 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,099 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,106 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,113 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,119 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,126 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,133 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,140 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,147 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,154 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,161 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,168 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,175 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,182 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,188 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,196 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,203 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,210 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,216 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,223 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,231 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,237 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,243 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,249 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,256 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,262 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,268 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,276 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,282 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,289 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,295 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,301 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,309 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,316 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,323 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,330 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,337 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,344 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,351 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,358 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,365 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,372 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,379 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,386 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,393 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,399 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,406 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,412 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,419 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,426 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,433 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,439 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,446 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,452 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,461 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,467 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,475 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,481 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,488 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,495 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,502 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,509 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,516 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,523 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,531 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,538 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,544 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,551 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,557 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,564 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,570 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,576 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,583 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,590 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,597 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,602 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,608 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,614 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,621 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,627 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,634 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,641 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,648 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,655 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,662 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,669 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,676 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,682 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,690 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,696 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,704 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,711 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,717 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,724 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,730 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,736 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,743 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,750 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,757 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,763 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,769 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,776 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,782 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,788 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,794 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,801 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,808 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,815 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,821 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,828 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,834 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,841 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,847 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,853 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,860 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,867 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,874 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,880 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,886 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,892 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,898 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,904 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,911 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,918 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,925 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,934 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,942 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,948 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,954 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,960 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,967 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,974 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,982 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,987 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:20,994 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,000 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,007 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,013 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,019 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,026 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,033 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,039 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,046 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,052 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,058 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,064 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,070 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,077 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,084 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,091 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,097 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,103 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,110 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,116 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,123 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,129 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,135 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,142 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,148 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,155 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,161 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,168 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,175 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,181 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,187 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,194 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,201 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,209 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,215 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,221 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,228 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,234 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,240 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,247 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,253 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,261 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,267 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,273 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,280 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,286 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,292 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,298 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,306 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,313 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,319 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,326 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,332 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,340 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,346 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,353 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,361 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,368 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,375 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,382 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,388 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,395 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,401 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,407 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,414 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,422 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,428 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,436 - ResetTransactions -INFO - 
+	
+2023-08-17 02:20:21,437 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:20:24,571 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:20:26,713 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:25:02,609 - AddCustomer -INFO - Opened URL
+2023-08-17 02:25:04,773 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:25:06,907 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:25:13,092 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:25:15,237 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:25:17,258 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:25:19,411 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:25:23,587 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:25:25,720 - OpenAccount -INFO - Account is processing
+2023-08-17 02:27:00,809 - AddCustomer -INFO - Opened URL
+2023-08-17 02:27:02,972 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:27:05,114 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:27:11,308 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:27:13,448 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:27:15,464 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:27:17,604 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:27:21,800 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:27:23,941 - OpenAccount -INFO - Account is processing
+2023-08-17 02:33:27,842 - AddCustomer -INFO - Opened URL
+2023-08-17 02:33:30,005 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:33:32,133 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:33:38,310 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:33:40,459 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:33:42,480 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:33:44,637 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:33:48,822 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:33:50,970 - OpenAccount -INFO - Account is processing
+2023-08-17 02:33:52,990 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 02:33:57,275 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:34:01,476 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:34:03,612 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:34:05,671 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:34:07,812 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:34:12,962 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:34:15,009 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:34:17,146 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:35:31,943 - AddCustomer -INFO - Opened URL
+2023-08-17 02:35:34,095 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:35:36,231 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:35:42,400 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:35:44,547 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:35:46,560 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:35:48,700 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:35:52,884 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:35:55,020 - OpenAccount -INFO - Account is processing
+2023-08-17 02:35:57,029 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 02:36:01,305 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:36:05,512 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:36:07,660 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:36:09,718 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:36:11,855 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:36:17,000 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:36:19,048 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:36:21,192 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:36:26,334 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 02:36:29,403 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:36:32,538 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:36:34,685 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:39:32,636 - AddCustomer -INFO - Opened URL
+2023-08-17 02:39:34,798 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:39:36,932 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:39:43,126 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:39:45,268 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:39:47,281 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:39:49,443 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:39:53,633 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:39:55,773 - OpenAccount -INFO - Account is processing
+2023-08-17 02:39:57,794 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 02:40:02,091 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:40:06,303 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:40:08,443 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:40:10,486 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:40:12,621 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:40:17,774 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:40:19,825 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:40:21,966 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:40:29,274 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 02:40:32,342 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:40:35,486 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:40:37,629 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:42:17,971 - AddCustomer -INFO - Opened URL
+2023-08-17 02:42:20,140 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:42:22,275 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:42:28,452 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:42:30,596 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:42:32,608 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:42:34,761 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:42:38,946 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:42:41,093 - OpenAccount -INFO - Account is processing
+2023-08-17 02:42:43,103 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 02:42:47,388 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:42:51,589 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:42:53,725 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:42:55,770 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:42:57,908 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:43:03,044 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:43:05,096 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:43:07,239 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:43:14,536 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 02:43:17,613 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:43:20,749 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:43:22,886 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:44:41,003 - AddCustomer -INFO - Opened URL
+2023-08-17 02:44:43,171 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:44:45,307 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:44:51,492 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:44:53,633 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:44:55,643 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:44:57,805 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:45:01,985 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:45:04,117 - OpenAccount -INFO - Account is processing
+2023-08-17 02:45:06,125 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 02:45:10,403 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:45:14,610 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:45:16,744 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:45:18,807 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:45:20,944 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:45:26,090 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:45:28,133 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:45:30,270 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:45:40,569 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 02:45:43,646 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:45:46,787 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:45:48,928 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:48:31,395 - AddCustomer -INFO - Opened URL
+2023-08-17 02:48:33,557 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:48:35,695 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:48:41,867 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:48:44,019 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:48:46,029 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:48:48,177 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:48:52,348 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:48:54,481 - OpenAccount -INFO - Account is processing
+2023-08-17 02:48:56,500 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 02:49:00,780 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:49:04,992 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:49:07,136 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:49:09,187 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:49:11,333 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:49:16,472 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:49:18,529 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:49:20,668 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:49:35,948 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 02:49:39,027 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:49:42,160 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:49:44,309 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:53:10,303 - AddCustomer -INFO - Opened URL
+2023-08-17 02:53:20,480 - DeleteCustomer -INFO - Manager logs in
+2023-08-17 02:53:22,616 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 02:53:24,697 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 02:54:24,268 - AddCustomer -INFO - Opened URL
+2023-08-17 02:54:26,424 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:54:28,561 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:54:34,724 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:54:36,865 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:54:38,885 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:54:41,042 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:54:45,232 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:54:47,366 - OpenAccount -INFO - Account is processing
+2023-08-17 02:54:49,385 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 02:54:53,667 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:54:57,868 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:55:00,004 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:55:02,059 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:55:04,199 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 02:55:09,347 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 02:55:11,401 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 02:55:13,539 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 02:55:28,840 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 02:55:31,909 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:55:35,055 - ResetTransactions -INFO - reset transactions
+2023-08-17 02:55:37,200 - ResetTransactions -INFO - Customer logs out
+2023-08-17 02:59:17,177 - AddCustomer -INFO - Opened URL
+2023-08-17 02:59:19,336 - AddCustomer -INFO - Manager logged in
+2023-08-17 02:59:21,480 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 02:59:27,659 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 02:59:29,801 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 02:59:31,815 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 02:59:33,970 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 02:59:38,157 - OpenAccount -INFO - Account details have been added
+2023-08-17 02:59:40,296 - OpenAccount -INFO - Account is processing
+2023-08-17 02:59:42,316 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 02:59:46,590 - DepositAmount -INFO - Customer wants to login
+2023-08-17 02:59:50,792 - DepositAmount -INFO - Customer logs in
+2023-08-17 02:59:52,924 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 02:59:54,984 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 02:59:57,121 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:00:02,267 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:00:04,310 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:00:06,451 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:00:11,739 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:00:14,811 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:00:17,939 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:00:20,092 - ResetTransactions -INFO - Customer logs out
+2023-08-17 03:00:39,164 - AddCustomer -INFO - Opened URL
+2023-08-17 03:00:41,315 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:00:43,450 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:00:49,629 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:00:51,769 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:00:53,780 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:00:55,930 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:01:00,130 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:01:02,270 - OpenAccount -INFO - Account is processing
+2023-08-17 03:01:04,288 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:01:08,575 - DepositAmount -INFO - Customer wants to login
+2023-08-17 03:01:12,783 - DepositAmount -INFO - Customer logs in
+2023-08-17 03:01:14,915 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 03:01:16,974 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 03:01:19,115 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:01:24,257 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:01:26,303 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:01:28,443 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:01:49,136 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:01:52,205 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:01:55,349 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:01:57,487 - ResetTransactions -INFO - Customer logs out
+2023-08-17 03:05:00,555 - AddCustomer -INFO - Opened URL
+2023-08-17 03:05:02,717 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:05:04,854 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:05:11,041 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:05:13,178 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:05:15,187 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:05:17,338 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:05:21,531 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:05:23,669 - OpenAccount -INFO - Account is processing
+2023-08-17 03:05:25,678 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:05:29,952 - DepositAmount -INFO - Customer wants to login
+2023-08-17 03:05:34,165 - DepositAmount -INFO - Customer logs in
+2023-08-17 03:05:36,305 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 03:05:38,353 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 03:05:40,493 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:05:45,631 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:05:47,682 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:05:49,830 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:06:10,551 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:06:13,624 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:06:16,763 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:06:18,908 - ResetTransactions -INFO - Customer logs out
+2023-08-17 03:08:40,413 - AddCustomer -INFO - Opened URL
+2023-08-17 03:08:42,574 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:08:44,726 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:08:50,905 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:08:53,048 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:08:55,068 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:08:57,217 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:09:01,414 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:09:03,553 - OpenAccount -INFO - Account is processing
+2023-08-17 03:09:05,571 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:09:09,856 - DepositAmount -INFO - Customer wants to login
+2023-08-17 03:09:14,061 - DepositAmount -INFO - Customer logs in
+2023-08-17 03:09:16,206 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 03:09:18,261 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 03:09:20,401 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:09:25,548 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:09:27,600 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:09:29,748 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:09:34,890 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:09:37,957 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:09:41,094 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:09:43,235 - ResetTransactions -INFO - Customer logs out
+2023-08-17 03:09:45,445 - DeleteCustomer -INFO - Manager logs in
+2023-08-17 03:09:47,581 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 03:09:49,667 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 03:09:51,812 - DeleteCustomer -INFO - Manager deletes customer
+2023-08-17 03:15:47,096 - AddCustomer -INFO - Opened URL
+2023-08-17 03:15:48,307 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:15:48,971 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:15:49,704 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:15:49,875 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:15:51,899 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:17:06,747 - AddCustomer -INFO - Opened URL
+2023-08-17 03:17:07,958 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:17:08,624 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:17:09,370 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:17:09,530 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:17:09,537 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:24:20,733 - AddCustomer -INFO - Opened URL
+2023-08-17 03:24:22,468 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:24:23,130 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:24:23,897 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:24:24,092 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:24:24,100 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:24:24,289 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:24:25,009 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:24:25,173 - OpenAccount -INFO - Account is processing
+2023-08-17 03:24:25,178 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:35:36,670 - AddCustomer -INFO - Opened URL
+2023-08-17 03:35:37,887 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:35:38,549 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:35:39,287 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:35:39,452 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:35:39,460 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:35:39,663 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:35:40,393 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:35:40,559 - OpenAccount -INFO - Account is processing
+2023-08-17 03:35:40,564 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:35:40,899 - DepositAmount -INFO - Customer wants to login
+2023-08-17 03:35:41,647 - DepositAmount -INFO - Customer logs in
+2023-08-17 03:35:42,315 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 03:35:42,893 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 03:35:43,044 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:35:43,211 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:35:43,270 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:35:43,417 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:35:43,588 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:35:44,169 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:35:44,315 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:38:50,724 - AddCustomer -INFO - Opened URL
+2023-08-17 03:38:51,942 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:38:52,603 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:38:53,343 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:38:53,508 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:38:53,519 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:38:53,721 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:38:54,455 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:38:54,618 - OpenAccount -INFO - Account is processing
+2023-08-17 03:38:54,623 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:38:54,959 - DepositAmount -INFO - Customer wants to login
+2023-08-17 03:38:55,702 - DepositAmount -INFO - Customer logs in
+2023-08-17 03:38:56,372 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 03:38:56,945 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 03:38:57,096 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:38:57,264 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:38:57,322 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:38:57,467 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:38:57,641 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:38:58,231 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:38:58,383 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:38:58,546 - ResetTransactions -INFO - Customer logs out
+2023-08-17 03:38:58,874 - DeleteCustomer -INFO - Manager logged in
+2023-08-17 03:38:59,028 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 03:38:59,634 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 03:38:59,788 - DeleteCustomer -INFO - Manager deletes customer
+2023-08-17 03:42:14,128 - AddCustomer -INFO - Opened URL
+2023-08-17 03:42:15,347 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:42:16,009 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:42:16,742 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:42:16,929 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:42:16,938 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:42:17,124 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:42:17,851 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:42:18,005 - OpenAccount -INFO - Account is processing
+2023-08-17 03:42:18,010 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:42:18,346 - DepositAmount -INFO - Customer wants to login
+2023-08-17 03:42:19,090 - DepositAmount -INFO - Customer logs in
+2023-08-17 03:42:20,272 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 03:42:20,855 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 03:42:21,009 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:42:21,176 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:42:21,248 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:42:21,410 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:42:21,581 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:42:22,170 - ResetTransactions -INFO - print transactions
+2023-08-17 03:42:22,313 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:42:22,485 - ResetTransactions -INFO - Customer logs out
+2023-08-17 03:42:22,797 - DeleteCustomer -INFO - Manager logged in
+2023-08-17 03:42:22,951 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 03:42:23,554 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 03:42:23,709 - DeleteCustomer -INFO - Manager deletes customer
+2023-08-17 03:42:35,141 - AddCustomer -INFO - Opened URL
+2023-08-17 03:42:36,344 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:42:37,013 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:42:38,411 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:42:38,788 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:42:38,803 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:42:39,012 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:42:39,742 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:42:39,912 - OpenAccount -INFO - Account is processing
+2023-08-17 03:42:39,917 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:42:40,280 - DepositAmount -INFO - Customer wants to login
+2023-08-17 03:42:41,023 - DepositAmount -INFO - Customer logs in
+2023-08-17 03:42:42,210 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 03:42:42,782 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 03:42:42,933 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:42:43,085 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:42:43,144 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:42:43,290 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:42:43,463 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:42:44,049 - ResetTransactions -INFO - print transactions
+2023-08-17 03:42:44,192 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:42:44,339 - ResetTransactions -INFO - Customer logs out
+2023-08-17 03:42:44,647 - DeleteCustomer -INFO - Manager logged in
+2023-08-17 03:42:44,799 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 03:42:45,400 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 03:42:45,558 - DeleteCustomer -INFO - Manager deletes customer
+2023-08-17 03:46:57,473 - AddCustomer -INFO - Opened URL
+2023-08-17 03:46:58,687 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:46:59,354 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:47:00,110 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:47:00,270 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:47:00,278 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:47:00,478 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:47:01,200 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:47:01,358 - OpenAccount -INFO - Account is processing
+2023-08-17 03:47:01,363 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:47:01,719 - DepositAmount -INFO - Customer wants to login
+2023-08-17 03:47:02,465 - DepositAmount -INFO - Customer logs in
+2023-08-17 03:47:03,136 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 03:47:03,721 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 03:47:03,869 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:47:04,051 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:47:04,111 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:47:04,268 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:47:04,453 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:47:05,036 - ResetTransactions -INFO - print transactions
+2023-08-17 03:47:05,187 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:47:05,338 - ResetTransactions -INFO - Customer logs out
+2023-08-17 03:47:05,650 - DeleteCustomer -INFO - Manager logged in
+2023-08-17 03:47:05,803 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 03:47:06,394 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 03:47:06,551 - DeleteCustomer -INFO - Manager deletes customer
+2023-08-17 03:52:23,856 - AddCustomer -INFO - Opened URL
+2023-08-17 03:52:25,593 - AddCustomer -INFO - Manager logged in
+2023-08-17 03:52:26,256 - AddCustomer -INFO - Manager wants to add customer
+2023-08-17 03:52:26,982 - AddCustomer -INFO - Manager has added details of customer
+2023-08-17 03:52:27,144 - AddCustomer -INFO - Manager has added the customer
+2023-08-17 03:52:27,152 - AddCustomer -INFO - Customer has been successfully added
+2023-08-17 03:52:27,341 - OpenAccount -INFO - Manager wants to open account
+2023-08-17 03:52:28,065 - OpenAccount -INFO - Account details have been added
+2023-08-17 03:52:28,213 - OpenAccount -INFO - Account is processing
+2023-08-17 03:52:28,217 - OpenAccount -INFO - Account has successfully opened
+2023-08-17 03:52:28,573 - DepositAmount -INFO - Customer wants to login
+2023-08-17 03:52:29,303 - DepositAmount -INFO - Customer logs in
+2023-08-17 03:52:29,972 - DepositAmount -INFO - Customer wants to make a deposit
+2023-08-17 03:52:30,539 - DepositAmount -INFO - Customer selects amount to be deposited
+2023-08-17 03:52:30,696 - DepositAmount -INFO - Customer deposits amount successfully
+2023-08-17 03:52:30,849 - WithdrawAmount -INFO - Customer wants to withdraw amount
+2023-08-17 03:52:30,904 - WithdrawAmount -INFO - Customer enters amount to be withdrawn
+2023-08-17 03:52:31,051 - WithdrawAmount -INFO - Customer withdraws amount successfully
+2023-08-17 03:52:31,223 - ResetTransactions -INFO - Customer wants to check transaction hisotry
+2023-08-17 03:52:31,808 - ResetTransactions -INFO - print transactions
+2023-08-17 03:52:31,954 - ResetTransactions -INFO - reset transactions
+2023-08-17 03:52:32,133 - ResetTransactions -INFO - Customer logs out
+2023-08-17 03:52:32,441 - DeleteCustomer -INFO - Manager logged in
+2023-08-17 03:52:32,610 - DeleteCustomer -INFO - Manager wants to see customers data
+2023-08-17 03:52:33,217 - DeleteCustomer -INFO - Manager searches for a customer
+2023-08-17 03:52:33,375 - DeleteCustomer -INFO - Manager deletes customer
